@@ -1,0 +1,16 @@
+.btn_sect {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.btn {
+  padding: 15px;
+  border: 0;
+  border-radius: 5px;
+  font-size: 16px;
+  background-color: rgb(87, 4, 165);
+  color: #fff;
+  margin: 20px;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  cursor: pointer;
+}

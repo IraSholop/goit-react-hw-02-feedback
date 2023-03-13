@@ -1,0 +1,16 @@
+.statistics {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.item {
+  background-color: rgb(13, 7, 131);
+  color: #fff;
+  width: 200px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+}
